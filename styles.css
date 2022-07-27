@@ -10,6 +10,7 @@ h1 {
 
 #recipe-list li {
     padding: 10px;
+    list-style: none;
 }
 
 li {
