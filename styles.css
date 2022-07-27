@@ -1,0 +1,51 @@
+h1, #recipe-list {
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 42px;
+    color: burlywood;
+}
+
+#recipe-list li {
+    padding: 10px;
+}
+
+li {
+    font-size: 18px;
+    padding: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main-page {
+    background-image: url(./recipes/food.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#title-o {
+    color: brown;
+}
+
+.recipe-head-one {
+    font-size: 42px;
+    color: darkslategray;
+}
+
+.recipe-page {
+    background-color: beige;
